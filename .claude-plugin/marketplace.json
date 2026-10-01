@@ -9,6 +9,11 @@
       "name": "commit-bee",
       "source": "./plugins/commit-bee",
       "description": "Gera e realiza commits seguindo o Guia do Commit Amigão (padrão Karma Commit Messages)"
+    },
+    {
+      "name": "novo-projeto",
+      "source": "./plugins/novo-projeto",
+      "description": "Cria a estrutura inicial de um novo projeto seguindo os padrões Inlog (back .NET, front React/Next.js ou Angular, branding do Grupo Inlog)"
     }
   ]
 }
