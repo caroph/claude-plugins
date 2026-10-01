@@ -1,0 +1,14 @@
+{
+  "name": "bee-stylish-tools",
+  "description": "Ferramentas internas Bee-Stylish para Claude Code",
+  "owner": {
+    "name": "Inlog"
+  },
+  "plugins": [
+    {
+      "name": "commit-bee",
+      "source": "./plugins/commit-bee",
+      "description": "Gera e realiza commits seguindo o Guia do Commit Amigão (padrão Karma Commit Messages)"
+    }
+  ]
+}

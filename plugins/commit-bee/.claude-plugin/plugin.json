@@ -1,0 +1,8 @@
+{
+  "name": "commit-bee",
+  "version": "1.0.0",
+  "description": "Gera e realiza commits seguindo o Guia do Commit Amigão da bee-stylish (padrão Karma Commit Messages)",
+  "author": {
+    "name": "Inlog"
+  }
+}
