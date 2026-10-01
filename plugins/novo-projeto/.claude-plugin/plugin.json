@@ -1,0 +1,8 @@
+{
+  "name": "novo-projeto",
+  "version": "1.0.0",
+  "description": "Cria a estrutura inicial de um novo projeto seguindo os padrões Inlog (back .NET, front React/Next.js ou Angular, branding do Grupo Inlog)",
+  "author": {
+    "name": "Inlog"
+  }
+}
